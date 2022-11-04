@@ -56,5 +56,37 @@ Trabalho de Bony codigo mais o Comentario é do Isac
 
 10- O modelo OSi é uma estrutura em camadas para o projeto de sistemas de redes que permite a comunicação entre todos os tipos de sistemas de computadores. (Forouzan, 208) sobre as camadas do modelo OSI, assinale a alternativas ICORRETA
 
-* A camada de apresentação é responsável pelo controle de dia
+* A camada de apresentação é responsável pelo controle de diálogo e sincronização.
+
+11- O modelo de referência OSI (Open Systems Interconnection) baseia-se no conceito de  camadas sobrepostas, onde cada camada executa um conjunto bem definido de funções. Relacione casa uma das camadas do Modelo OSI com as características apresentadas a seguir.
+1. Camada de enlace
+2. Camada de transporte
+3. Camada de apresentação
+
+(1) tem por objetivo prover mecanismos que possibilitem a troca de dados entre sistemas, independente do tipo, topologia ou configuração das redes físicas existentes entre eles, garantindo ainda que os dados cheguem sem erros e na sequência correta.
+
+(3) tem por objetivo resolver problemas de representação de informação existentes entre sistemas heterogêneos interconectados.
+
+(2) tem por objetivo realizar a transferêcnia de dados sobre uma conexão fisica de maneira confiável.
+
+
+12- Em comunicação de dados, as redes de computadores podem ser definidas como estruturas físicas e lógicas que permitem que dois ou mais computadores possam compartilhar suas informações entre si. O equipamento utilizado em uma rede para interligar computadores, armazenando em sua tabela interna os endereçoes MAC e portas de todos os hosts que estão transmitindo e recebendo informações, é chamado de.
+
+* switch
+
+13- Fiz o download de um capítulo de uma série, com arquivo de 3 GB em 4 minutos. Qual será minha velocidade de conexão aproximadamente em Mbps?
+
+*100 Gbps
+
+14- Quanto tempo em segundos, leverá para conclusão de um download de um filme de 10GB, sabendo que a conexão tem uma média de 128Mbps.
+
+*640 s
+
+15- O protocolo de transporte TCP (Transmission Control Protocol) é um tipo de protocolo orientado à conexão, garantindo assim a entregra dos dados, porém é mais lento que o protocolo UBP (User Datagram Protocol), que não é orientado à conexão, entregando os segmentos de forma mais rápida, mas não garantindo a entrega, sendo mais voltado para aplicações em tempo real. A alternativa que possui uma aplicação que usa essencialmente o protocolo UDP:
+
+* telefonia IP - VoLP.
+
+16- Arquiteturas de Redes são, em geral, formadas por camadas hierárquicas (também chamadas níveis), nas quais casa camada oferece serviçoes à camada imediatamente superior utilizando os serviçoes da camada imediatamente inferior. Ao comparar as arquiteturas definidas pelo modelo ISO e a arquitetura da internet (arquitetura TCP/IP), observar-se que o(s)
+
+*níveis de Aplicação das duas arquiteturas especificam o TCP como uma das opções de protocolo a ser utilizado.
 
